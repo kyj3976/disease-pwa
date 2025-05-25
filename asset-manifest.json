@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/disease-pwa/static/css/main.e6c13ad2.css",
-    "main.js": "/disease-pwa/static/js/main.32037edb.js",
+    "main.js": "/disease-pwa/static/js/main.8ae551cb.js",
     "static/js/453.ed3810f9.chunk.js": "/disease-pwa/static/js/453.ed3810f9.chunk.js",
     "index.html": "/disease-pwa/index.html",
     "main.e6c13ad2.css.map": "/disease-pwa/static/css/main.e6c13ad2.css.map",
-    "main.32037edb.js.map": "/disease-pwa/static/js/main.32037edb.js.map",
+    "main.8ae551cb.js.map": "/disease-pwa/static/js/main.8ae551cb.js.map",
     "453.ed3810f9.chunk.js.map": "/disease-pwa/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.32037edb.js"
+    "static/js/main.8ae551cb.js"
   ]
 }
